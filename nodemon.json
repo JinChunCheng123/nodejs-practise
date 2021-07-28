@@ -1,0 +1,3 @@
+{
+  "ignore": ["logs/*", "test/*", "docs/*", "*.test.js", "fs/*.json", "fs/*.txt", "fs/file3.js", "newCreateAsync.json"]
+}
